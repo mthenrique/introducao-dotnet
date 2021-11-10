@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = primeiros_passos
-build_property.ProjectDir = d:\Dev WEB\C#\primeiros-passos\
+build_property.RootNamespace = cadastro_series
+build_property.ProjectDir = d:\Dev WEB\C#\cadastro-series\
